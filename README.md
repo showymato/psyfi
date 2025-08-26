@@ -4,6 +4,10 @@
 > Built with **Next.js 15, NestJS, AI microservices, OpenXAI xNodes, Docker/K8s**.  
 
 ---
+#workflow
+<img width="1071" height="233" alt="Untitled_diagram___Mermaid_Chart-2025-08-26-072803-removebg-preview" src="https://github.com/user-attachments/assets/64076f55-7abf-445c-80ee-7ca247059890" />
+
+
 
 ## ✨ Features
 
